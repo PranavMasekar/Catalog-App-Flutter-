@@ -1,0 +1,49 @@
+{
+    "item":[
+        {
+        "id": 1,
+        "name": "iPhone 12 pro max",
+        "desc": "Apple iPhone",
+        "color": "#33505a",
+        "image":
+            "https://cdn.dxomark.com/wp-content/uploads/medias/post-61584/iphone-12-pro-max-graphite-hero-1024x768.jpg",
+        "price": 990
+        },
+        {
+        "id": 2,
+        "name": "Apple Air Pods",
+        "desc": "Air Pods from Apple",
+        "color": "#00ac51",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYmElh7jjBjY25AY40faCy4hv96eb35fLqPw&usqp=CAU",  
+        "price": 160
+        },
+        {
+            "id": 3,
+            "name": "iPhone 12 pro ",
+            "desc": "Apple iPhone",
+            "color": "#544ee4",
+            "image":
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEftyCOdwgL5_gtiPcSzJoq7_FdQVUiUVPg&usqp=CAU",
+            "price": 920
+            },
+        {
+        "id": 4,
+        "name": "One Plus 9 Pro",
+        "desc": "On Oxygen OS",
+        "color": "#e3e4e9",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCHzpy8bU2keVt30c-WzKY4LrXT12KnIZO36xvK0qc2H-aQyCIFyj4d6YkIlHW2uRCDU&usqp=CAU",  
+        "price":880
+        },
+        {
+        "id": 5,
+        "name": "One Plus 9 ",
+        "desc": "On Oxygen OS",
+        "color": "#1c1c1c",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6Okxmy5hDxttl01V_eWyRJb2ts6aNz_frw&usqp=CAU",  
+        "price": 820
+        }
+
+
+
+    ]
+}
