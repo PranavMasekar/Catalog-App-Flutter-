@@ -28,9 +28,15 @@ class MyTheme {
             color: Colors.white,
             elevation: 0.0,
             iconTheme: IconThemeData(color: Colors.white),
-            textTheme: Theme.of(context).textTheme.copyWith(
-                headline6:
-                    context.textTheme.headline6.copyWith(color: Colors.white))),
+            toolbarTextStyle: TextStyle(
+                color: Colors.white,
+                fontSize: 20,
+                wordSpacing: 0.15,
+                fontWeight: FontWeight.bold)
+            // textTheme: Theme.of(context).textTheme.copyWith(
+            //     headline6:
+            //         context.textTheme.headline6.copyWith(color: Colors.white))
+            ),
       );
   static Color creamcolor = Color(0xfff5f5f5);
   static Color darkcreamcolor = Vx.gray900;
